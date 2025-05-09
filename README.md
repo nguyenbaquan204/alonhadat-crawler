@@ -76,9 +76,13 @@ chạy từng lệnh ở dưới
 # lưu ý  cd path/to/thu-muc-cua-ban
 
 git init
+
 git remote add origin https://github.com/<ten-ban>/<ten-repo>.git
+
 git add .
+
 git commit -m "Initial commit"
+
 git push -u origin master
 
 
